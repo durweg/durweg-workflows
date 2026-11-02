@@ -17,8 +17,8 @@
       "url": "https://github.com/musetee/durweg-stepaper.git"
     },
     "todo-weekly": {
-      "title": "每周回顾：我和 AI 之间的事一件不丢",
-      "summary": "每周回顾：我和 AI 之间的事一件不丢",
+      "title": "Weekly review: nothing between you and your AIs gets lost",
+      "summary": "Once a week an AI agent goes through your Todoist with you: what agents wait on you for, the to-AI queue, overdue and untouched items, and next week's focus",
       "url": "https://github.com/musetee/durweg-todo-weekly"
     }
   }
