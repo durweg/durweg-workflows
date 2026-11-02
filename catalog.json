@@ -18,7 +18,7 @@
     },
     "todo-weekly": {
       "title": "Weekly review: nothing between you and your AIs gets lost",
-      "summary": "Once a week an AI agent goes through your Todoist with you: what agents wait on you for, the to-AI queue, overdue and untouched items, and next week's focus",
+      "summary": "Once a week, an AI agent goes through your Todoist with you: what your agents need from you, the to-AI queue, overdue and untouched to-dos, and next week's focus",
       "url": "https://github.com/musetee/durweg-todo-weekly"
     }
   }
