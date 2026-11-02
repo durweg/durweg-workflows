@@ -17,8 +17,8 @@
       "url": "https://github.com/musetee/durweg-stepaper.git"
     },
     "todo-daily": {
-      "title": "每日回顾：今天做哪 3 件",
-      "summary": "每日回顾：今天做哪 3 件",
+      "title": "Daily review: pick today's 3",
+      "summary": "Each morning an AI agent collects what your agents are waiting on you for, glances at the to-AI queue in Todoist, and you pick at most 3 things for today",
       "url": "https://github.com/musetee/durweg-todo-daily"
     }
   }
