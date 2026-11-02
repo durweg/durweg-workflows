@@ -21,6 +21,8 @@ With Durweg installed, tell your agent "Show me the durweg workflows I can insta
 | `human-readme` | AI agents write a project's README in 7 fixed steps, for a first-time reader | [musetee/durweg-human-readme](https://github.com/musetee/durweg-human-readme) |
 | `name-project` | Find a name for a project: core value, white space, candidates, a collision check, one decision | [musetee/name-project](https://github.com/musetee/name-project) |
 | `stepaper` | An AI agent reads a research paper with you one step at a time, lets you question every step, then builds the group-meeting slides | [musetee/durweg-stepaper](https://github.com/musetee/durweg-stepaper) |
+| `todo-daily` | Each morning, an AI agent collects what your agents need from you, shows the to-AI queue in Todoist, and helps you pick at most 3 things for today. Part of [durweg-todo](https://github.com/musetee/durweg-todo), which explains the full setup. | [musetee/durweg-todo-daily](https://github.com/musetee/durweg-todo-daily) |
+| `todo-weekly` | Once a week, an AI agent goes through your Todoist with you: what your agents need from you, the to-AI queue, overdue and untouched to-dos, and next week's focus. Part of [durweg-todo](https://github.com/musetee/durweg-todo). | [musetee/durweg-todo-weekly](https://github.com/musetee/durweg-todo-weekly) |
 
 ## 🙋 Add yours
 
