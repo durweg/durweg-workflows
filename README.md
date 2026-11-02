@@ -2,7 +2,7 @@
 
 # Durweg workflows
 
-**The public list of [Durweg](https://github.com/musetee/durweg) workflows: ready-made ways of
+**The public list of [Durweg](https://github.com/durweg/durweg) workflows: ready-made ways of
 working that you install by name and run with your AI agent.**
 
 ## 🧭 Install one
@@ -17,16 +17,16 @@ With Durweg installed, tell your agent "Show me the durweg workflows I can insta
 
 | Name | What it does | Repository |
 | :--- | :--- | :--- |
-| `write-your-method` | Comes with Durweg, nothing to install: write down your own way of working as a workflow. Tell your agent: "Run write-your-method with durweg." | [musetee/durweg](https://github.com/musetee/durweg#-example-write-down-your-method) |
-| `human-readme` | AI agents write a project's README in 7 fixed steps, for a first-time reader | [musetee/durweg-human-readme](https://github.com/musetee/durweg-human-readme) |
+| `write-your-method` | Comes with Durweg, nothing to install: write down your own way of working as a workflow. Tell your agent: "Run write-your-method with durweg." | [durweg/durweg](https://github.com/durweg/durweg#-example-write-down-your-method) |
+| `human-readme` | AI agents write a project's README in 7 fixed steps, for a first-time reader | [durweg/durweg-human-readme](https://github.com/durweg/durweg-human-readme) |
 | `name-project` | Find a name for a project: core value, white space, candidates, a collision check, one decision | [musetee/name-project](https://github.com/musetee/name-project) |
-| `stepaper` | An AI agent reads a research paper with you one step at a time, lets you question every step, then builds the group-meeting slides | [musetee/durweg-stepaper](https://github.com/musetee/durweg-stepaper) |
-| `todo-daily` | Each morning, an AI agent collects what your agents need from you, shows the to-AI queue in Todoist, and helps you pick at most 3 things for today. Part of [durweg-todo](https://github.com/musetee/durweg-todo), which explains the full setup. | [musetee/durweg-todo-daily](https://github.com/musetee/durweg-todo-daily) |
-| `todo-weekly` | Once a week, an AI agent goes through your Todoist with you: what your agents need from you, the to-AI queue, overdue and untouched to-dos, and next week's focus. Part of [durweg-todo](https://github.com/musetee/durweg-todo). | [musetee/durweg-todo-weekly](https://github.com/musetee/durweg-todo-weekly) |
+| `stepaper` | An AI agent reads a research paper with you one step at a time, lets you question every step, then builds the group-meeting slides | [durweg/durweg-stepaper](https://github.com/durweg/durweg-stepaper) |
+| `todo-daily` | Each morning, an AI agent collects what your agents need from you, shows the to-AI queue in Todoist, and helps you pick at most 3 things for today. Part of [durweg-todo](https://github.com/durweg/durweg-todo), which explains the full setup. | [durweg/durweg-todo-daily](https://github.com/durweg/durweg-todo-daily) |
+| `todo-weekly` | Once a week, an AI agent goes through your Todoist with you: what your agents need from you, the to-AI queue, overdue and untouched to-dos, and next week's focus. Part of [durweg-todo](https://github.com/durweg/durweg-todo). | [durweg/durweg-todo-weekly](https://github.com/durweg/durweg-todo-weekly) |
 
 ## 🙋 Add yours
 
 Publish your workflow as a public repository with a LICENSE and say yes when Durweg asks whether
-to propose it to the public catalog ([publishing](https://github.com/musetee/durweg/blob/main/docs/publish.md)).
+to propose it to the public catalog ([publishing](https://github.com/durweg/durweg/blob/main/docs/publish.md)).
 That opens a pull request here. A check makes sure the repository is public, has a README and a
 LICENSE and a valid `workflow.json`; the entry is listed once the owner merges it.

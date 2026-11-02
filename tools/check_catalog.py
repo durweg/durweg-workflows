@@ -2,7 +2,7 @@
 
 For every entry: the name and fields are valid; the repository is on GitHub and public; it has
 a README and a LICENSE; its workflow.json is valid for Durweg and the files it names exist. Run in CI on every pull request:
-    python tools/check_catalog.py <folder with a checkout of musetee/durweg>
+    python tools/check_catalog.py <folder with a checkout of durweg/durweg>
 """
 
 import json
