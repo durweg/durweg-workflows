@@ -21,8 +21,8 @@ With Durweg installed, tell your agent "Show me the durweg workflows I can insta
 | `human-readme` | AI agents write a project's README in 7 fixed steps, for a first-time reader | [durweg/durweg-human-readme](https://github.com/durweg/durweg-human-readme) |
 | `name-project` | Find a name for a project: core value, white space, candidates, a collision check, one decision | [musetee/name-project](https://github.com/musetee/name-project) |
 | `stepaper` | An AI agent reads a research paper with you one step at a time, lets you question every step, then builds the group-meeting slides | [durweg/durweg-stepaper](https://github.com/durweg/durweg-stepaper) |
-| `todo-daily` | Each morning, an AI agent collects what your agents need from you, shows the to-AI queue in Todoist, and helps you pick at most 3 things for today. Part of [durweg-todo](https://github.com/durweg/durweg-todo), which explains the full setup. | [durweg/durweg-todo-daily](https://github.com/durweg/durweg-todo-daily) |
-| `todo-weekly` | Once a week, an AI agent goes through your Todoist with you: what your agents need from you, the to-AI queue, overdue and untouched to-dos, and next week's focus. Part of [durweg-todo](https://github.com/durweg/durweg-todo). | [durweg/durweg-todo-weekly](https://github.com/durweg/durweg-todo-weekly) |
+
+For your to-dos with AI agents (the to-AI queue in Todoist, GitHub issues collected into it, daily and weekly reviews, sorting the queue before you leave), install the plugin [durweg-todo](https://github.com/durweg/durweg-todo): it brings its own workflows todo-daily, todo-weekly, todo-issues and todo-away.
 
 ## 🙋 Add yours
 
