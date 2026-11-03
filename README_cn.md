@@ -21,7 +21,7 @@
 | `name-project` | 给项目起名字：核心价值、空白地带、候选名、查重、一次决定 | [musetee/name-project](https://github.com/musetee/name-project) |
 | `stepaper` | AI agent 陪你一步一步读论文，每一步都可以质疑，最后做出组会 PPT | [durweg/durweg-stepaper](https://github.com/durweg/durweg-stepaper) |
 
-和 AI agent 一起管待办（Todoist 里交给 AI 的队列、收进来的 GitHub issue、每日和每周回顾）：装插件 [durweg-todo](https://github.com/durweg/durweg-todo)，它自带 todo-daily、todo-weekly、todo-issues 三个工作流。
+和 AI agent 一起管待办（Todoist 里交给 AI 的队列、收进来的 GitHub issue、每日和每周回顾、离开前分好队列）：装插件 [durweg-todo](https://github.com/durweg/durweg-todo)，它自带 todo-daily、todo-weekly、todo-issues、todo-away 四个工作流。
 
 ## 🙋 加上你的
 

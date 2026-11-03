@@ -22,7 +22,7 @@ With Durweg installed, tell your agent "Show me the durweg workflows I can insta
 | `name-project` | Find a name for a project: core value, white space, candidates, a collision check, one decision | [musetee/name-project](https://github.com/musetee/name-project) |
 | `stepaper` | An AI agent reads a research paper with you one step at a time, lets you question every step, then builds the group-meeting slides | [durweg/durweg-stepaper](https://github.com/durweg/durweg-stepaper) |
 
-For your to-dos with AI agents (the to-AI queue in Todoist, GitHub issues collected into it, daily and weekly reviews), install the plugin [durweg-todo](https://github.com/durweg/durweg-todo): it brings its own workflows todo-daily, todo-weekly and todo-issues.
+For your to-dos with AI agents (the to-AI queue in Todoist, GitHub issues collected into it, daily and weekly reviews, sorting the queue before you leave), install the plugin [durweg-todo](https://github.com/durweg/durweg-todo): it brings its own workflows todo-daily, todo-weekly, todo-issues and todo-away.
 
 ## 🙋 Add yours
 
