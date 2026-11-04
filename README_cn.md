@@ -21,7 +21,7 @@
 | `name-project` | 给项目起名字：核心价值、空白地带、候选名、查重、一次决定 | [musetee/name-project](https://github.com/musetee/name-project) |
 | `stepaper` | AI agent 陪你一步一步读论文，每一步都可以质疑，最后做出组会 PPT | [durweg/durweg-stepaper](https://github.com/durweg/durweg-stepaper) |
 
-和 AI agent 一起管待办（Todoist 里交给 AI 的队列、收进来的 GitHub issue、每日和每周回顾、离开前分好队列）：装插件 [durweg-todo](https://github.com/durweg/durweg-todo)，它自带 todo-daily、todo-weekly、todo-issues、todo-away 四个工作流。
+想让 AI agent 自己把你的需求一件件做完：装插件 [durweg-todo](https://github.com/durweg/durweg-todo)。需求变成你自己 AI Board（一个私有 GitHub Project）上的卡，agent 一张接一张做，每张由另一个 agent 审，只有要你定、要你亲手做、要你验收的停在那里等你。它自带几个工作流：todo-kanban（把卡派给 agent 的总控）、todo-daily 和 todo-weekly（每日、每周回顾）、todo-issues（把 GitHub issue 收到看板上）。它是带着几个工作流和 `ai-board` 命令的插件，所以不在这份目录里；照它的 README 安装。
 
 ## 🙋 加上你的
 

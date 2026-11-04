@@ -17,12 +17,12 @@ With Durweg installed, tell your agent "Show me the durweg workflows I can insta
 
 | Name | What it does | Repository |
 | :--- | :--- | :--- |
-| `write-your-method` | Comes with Durweg, nothing to install: write down your own way of working as a workflow. Tell your agent: "Run write-your-method with durweg." | [durweg/durweg](https://github.com/durweg/durweg#-example-write-down-your-method) |
+| `write-your-method` | Comes with Durweg, nothing to install: write down your own way of working as a workflow. Tell your agent: "Run write-your-method with durweg." | [durweg/durweg](https://github.com/durweg/durweg/blob/main/docs/example.md) |
 | `human-readme` | AI agents write a project's README in 7 fixed steps, for a first-time reader | [durweg/durweg-human-readme](https://github.com/durweg/durweg-human-readme) |
 | `name-project` | Find a name for a project: core value, white space, candidates, a collision check, one decision | [musetee/name-project](https://github.com/musetee/name-project) |
 | `stepaper` | An AI agent reads a research paper with you one step at a time, lets you question every step, then builds the group-meeting slides | [durweg/durweg-stepaper](https://github.com/durweg/durweg-stepaper) |
 
-For your to-dos with AI agents (the to-AI queue in Todoist, GitHub issues collected into it, daily and weekly reviews, sorting the queue before you leave), install the plugin [durweg-todo](https://github.com/durweg/durweg-todo): it brings its own workflows todo-daily, todo-weekly, todo-issues and todo-away.
+To let your AI agents work through your requests on their own, install the plugin [durweg-todo](https://github.com/durweg/durweg-todo): requests become cards on an AI Board of your own (a private GitHub Project), agents take them one after another, a second agent reviews each, and only what needs you (decide, do something, accept a result) waits there for you. It brings its own workflows: todo-kanban (the coordinator that hands out the cards), todo-daily and todo-weekly (your daily and weekly review) and todo-issues (GitHub issues onto the board). It is a plugin with several workflows and the `ai-board` command, so it is not an entry in this catalog; install it as its README says.
 
 ## 🙋 Add yours
 
