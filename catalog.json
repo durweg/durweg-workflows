@@ -13,7 +13,7 @@
     },
     "stepaper": {
       "title": "Read a paper step by step",
-      "summary": "An AI agent reads a research paper with you one step at a time, lets you question every step, then builds the group-meeting slides",
+      "summary": "An AI agent reads a research paper with you one step at a time, lets you question every step, then builds slides that check you understood it",
       "url": "https://github.com/durweg/durweg-stepaper.git"
     }
   }
